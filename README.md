@@ -32,8 +32,21 @@ In 2013 Docker had its public debut in Santa Clara at PyCon, and was released as
 
 ## Features
 
+Docker software consists of three components:
+
+- **Software:** The Docker daemon, or service. A persistent process that manages Docker containers. And Docker client that provides CLI to interact with Docker daemon.
+- **Objects:** Used to assemble an application in Docker. Like images, containers and services.
+- **Registries:** Repositories for images. Images are read-only templates for building containers. Docker client connects to registry to download images for use, or upload built images.
+
 #### Fast and easy configuration and deployment
 Docker containers allow a developer to package an application with all the parts it needs to run independently from the host Operating system, and deploy anywhere.
+
+#### Application isolation
+Docker containers run applications in an isolated environment where each container is independent and can execute any kind of application.
+
+#### Docker Hub repository
+Docker Hub is the world's largest public repository for container images. Including community developers and open source projects.
+
 
 ## Strengths
 
@@ -62,6 +75,8 @@ General
 - https://en.wikipedia.org/wiki/Docker_(software)
 - https://aws.amazon.com/docker/
 - https://www.freecodecamp.org/news/docker-simplified-96639a35ff36/
+- https://www.knowledgehut.com/blog/devops/docker-features
+- https://www.docker.com/products/docker-hub/
 
 Major Milestones
 
