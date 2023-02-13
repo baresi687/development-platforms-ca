@@ -1,10 +1,7 @@
 ---
-title: Example Product Case Study
-keywords: development platforms, example project, category name
-tags: Development Platforms, Example Project, Category Name
-sidebar: development-platforms
-permalink: development-platforms/example-product.html
-folder: development-platforms
+title: Docker Case Study
+keywords: Development platforms, Docker, Containerization, Platform as a service
+
 ---
 
 ## Introduction
