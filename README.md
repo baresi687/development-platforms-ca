@@ -6,7 +6,9 @@ keywords: Development platforms, Docker, Containerization, Platform as a service
 
 ## Introduction
 
-Summarise the product's primary purpose in one or two paragraphs.
+Docker is an open source software platform that simplifies building, running and managing applications.<br>
+By packaging software into portable containers, Docker applications are independent of the host Operating system.
+
 
 ## Brief History
 
