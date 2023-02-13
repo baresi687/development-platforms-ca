@@ -13,7 +13,7 @@ keywords: Development platforms, Docker, Containerization, Platform as a service
 ## Introduction
 
 Docker is an open source software platform that simplifies building, running and managing applications.<br>
-By packaging software into portable containers, Docker applications are independent of the host Operating system.
+By packaging software into standardized executable containers, Docker applications are independent of the host Operating system and can run in any environment.
 
 
 ## Brief History
