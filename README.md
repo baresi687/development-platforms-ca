@@ -52,8 +52,20 @@ Summarise the content and highlight the relevance of the product to a web develo
 
 ### Credits
 
-- Student Name (studentGitHubUsername)
+- Hreinn Gylfason (baresi687)
 
 #### References
 
-- List of video or links used during research
+General
+
+- https://en.wikipedia.org/wiki/Docker_(software)
+
+Major Milestones
+
+- https://techcrunch.com/2013/09/19/dotcloud-pivots-and-wins-big-with-docker-the-cloud-service-now-part-of-red-hat-openshift/
+- https://www.zdnet.com/article/docker-container-support-coming-to-microsofts-next-windows-server-release/
+- https://www.crn.com/news/cloud/300079216/oracle-acquires-docker-container-startup-stackengine-plans-austin-based-cloud-computing-center.htm
+- https://gist.github.com/icecrime/18d72202f4569a0cab1ee60f7583425f
+- https://www.linkedin.com/pulse/docker-momentum-2016-analysis-michael-mullany/
+- https://devblogs.microsoft.com/commandline/wsl-2-support-is-coming-to-windows-10-versions-1903-and-1909/
+
