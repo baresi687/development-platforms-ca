@@ -32,7 +32,8 @@ In 2013 Docker had its public debut in Santa Clara at PyCon, and was released as
 
 ## Features
 
-Outline the product's key features.
+#### Fast and easy configuration and deployment
+Docker containers allow a developer to package an application with all the parts it needs to run independently from the host Operating system, and deploy anywhere.
 
 ## Strengths
 
