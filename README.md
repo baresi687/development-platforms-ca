@@ -59,6 +59,8 @@ Summarise the content and highlight the relevance of the product to a web develo
 General
 
 - https://en.wikipedia.org/wiki/Docker_(software)
+- https://aws.amazon.com/docker/
+- https://www.freecodecamp.org/news/docker-simplified-96639a35ff36/
 
 Major Milestones
 
