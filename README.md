@@ -4,11 +4,7 @@ keywords: Development platforms, Docker, Containerization, Platform as a service
 
 ---
 
-<br />
-
 # Docker Case Study
-
-<br />
 
 ## Introduction
 
