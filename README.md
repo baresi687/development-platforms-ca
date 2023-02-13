@@ -4,6 +4,12 @@ keywords: Development platforms, Docker, Containerization, Platform as a service
 
 ---
 
+<br />
+
+# Docker Case Study
+
+<br />
+
 ## Introduction
 
 Docker is an open source software platform that simplifies building, running and managing applications.<br>
