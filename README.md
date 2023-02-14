@@ -9,13 +9,13 @@ keywords: Development platforms, Docker, Containerization, Platform as a service
 ## Introduction
 
 Docker is an open source software platform that simplifies building, running and managing applications.<br>
-By packaging software into standardized executable containers, Docker applications are independent of the host Operating system and can run in any environment.
+By packaging software into standardized executable [containers](https://en.wikipedia.org/wiki/Containerization_(computing)), Docker applications are independent of the host Operating system and can run in any environment.
 
 
 ## Brief History
 
-Docker Inc. was founded in 2010 during the Summer Y Combinator startup incubator group and launched in 2011.<br>
-In 2013 Docker had its public debut in Santa Clara at PyCon, and was released as open source in March 2013.
+Docker Inc. was founded in 2010 during the Summer [Y Combinator](https://en.wikipedia.org/wiki/Y_Combinator) startup incubator group and launched in 2011.<br>
+In 2013 Docker had its public debut in Santa Clara at [PyCon](https://en.wikipedia.org/wiki/Python_Conference), and was released as open source in March 2013.
 
 #### Major Milestones
 
@@ -73,7 +73,7 @@ There are tools like Docker Data Volumes to keep data safe, but they are awkward
 ## Comparison
 
 #### Docker vs. Kubernetes
-There is some confusion regarding Docker vs. Kubernetes<br>
+There is some confusion regarding Docker vs. [Kubernetes](https://en.wikipedia.org/wiki/Kubernetes)<br>
 Docker is a container runtime, while Kubernetes is platform for running and managing multiple container runtimes, typically called container orchestration platform.<br>
 Docker has its own container orchestration platform called Docker Swarm.
 <br><br>
