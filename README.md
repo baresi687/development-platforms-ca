@@ -32,7 +32,7 @@ Docker software consists of three components:
 
 - **Software:** The Docker daemon, or service. A persistent process that manages Docker containers. And Docker client that provides CLI to interact with Docker daemon.
 - **Objects:** Used to assemble an application in Docker. Like images, containers and services.
-- **Registries:** Repositories for images. Images are read-only templates for building containers. Docker client connects to registry to download images for use, or upload built images.
+- **Registries:** Repositories for images. Images are read-only templates for building containers. Docker client connects to the registry to download images for use, or upload built images.
 
 #### Fast and easy configuration and deployment
 Docker containers allow a developer to package an application with all the parts it needs to run independently from the host Operating system, and deploy anywhere.
