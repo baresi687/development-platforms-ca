@@ -104,6 +104,7 @@ General
 - https://apiumhub.com/tech-blog-barcelona/top-benefits-using-docker/
 - https://www.channelfutures.com/open-source/docker-downsides-container-cons-to-consider-before-adopting-docker
 - https://www.freecodecamp.org/news/7-cases-when-not-to-use-docker/
+- https://www.freecodecamp.org/news/kubernetes-vs-docker-swarm-what-is-the-difference/
 
 Major Milestones
 
