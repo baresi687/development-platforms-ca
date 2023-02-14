@@ -46,7 +46,9 @@ Docker Hub is the world's largest public repository for container images. Includ
 
 ## Strengths
 
-Discuss the product's strengths.
+#### Cloud Platform support
+All major cloud computing providers have individual support for Docker. This includes Amazon Web Services and Google Compute Platform. 
+
 
 ## Weaknesses
 
