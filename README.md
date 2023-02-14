@@ -31,7 +31,7 @@ By now Docker is supported on all major Windows versions including Home.
 
 Docker software consists of three components:
 
-- **Software:** The Docker daemon, or service. A persistent process that manages Docker containers. And Docker client that provides CLI to interact with Docker daemon.
+- **Software:** The Docker daemon, or service. A persistent process that manages Docker containers. And Docker client that provides [CLI](https://en.wikipedia.org/wiki/Command-line_interface) to interact with Docker daemon.
 - **Objects:** Used to assemble an application in Docker. Like images, containers and services.
 - **Registries:** Repositories for images. Images are read-only templates for building containers. Docker client connects to the registry to download images for use, or upload built images.
 
