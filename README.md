@@ -58,7 +58,9 @@ The same container image can be used in every step of the deployment process, sp
 
 ## Weaknesses
 
-Discuss the product's weaknesses.
+#### Applications with Graphical interfaces (GUI)
+Docker is designed in general for hosting applications that run on the command line.
+Although there are ways to run a graphical interface inside a Docker container, performance may become cumbersome.
 
 ## Comparison
 
