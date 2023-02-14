@@ -70,10 +70,15 @@ On container shutdown, all the data stored inside will be lost.<br>
 There are tools like Docker Data Volumes to keep data safe, but they are awkward to use and need improvements.
 
 
-
 ## Comparison
 
-Compare the product to other products in the same category, if applicable.
+#### Docker vs. Kubernetes
+There is some general confusion regarding Docker vs. Kubernetes<br>
+Docker is a container runtime, while Kubernetes is platform for running and managing multiple container runtimes, typically called container orchestration platform.<br>
+Docker has its own container orchestration platform called Docker Swarm.
+<br><br>
+**Docker Swarm** is easy to install and lightweight. As it is native to Docker, it works well with the Docker CLI and other existing Docker tools like compose.<br>
+It is however tied to the Docker platform and has limits in its functionality compared to Kubernetes.
 
 ## Summary
 
