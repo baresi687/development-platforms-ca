@@ -49,6 +49,9 @@ Docker Hub is the world's largest public repository for container images. Includ
 #### Cloud Platform support
 All major cloud computing providers have individual support for Docker. This includes Amazon Web Services and Google Compute Platform. 
 
+#### Continuous integration efficiency
+The same container image can be used in every step of the deployment process, speeding up the time it takes to go from build to production.
+
 
 ## Weaknesses
 
@@ -75,6 +78,7 @@ General
 - https://www.freecodecamp.org/news/docker-simplified-96639a35ff36/
 - https://www.knowledgehut.com/blog/devops/docker-features
 - https://www.docker.com/products/docker-hub/
+- https://apiumhub.com/tech-blog-barcelona/top-benefits-using-docker/
 
 Major Milestones
 
