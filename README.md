@@ -49,6 +49,9 @@ Docker Hub is the world's largest public repository for container images. Includ
 #### Cloud Platform support
 All major cloud computing providers have individual support for Docker. This includes Amazon Web Services and Google Compute Platform. 
 
+#### Return on investment and cost savings
+Because of reduced infrastructure resources required to run Docker applications, companies and organizations can save on server costs and the number of developers needed to maintain them, allowing teams to be smaller and more effective.
+
 #### Continuous integration efficiency
 The same container image can be used in every step of the deployment process, speeding up the time it takes to go from build to production.
 
