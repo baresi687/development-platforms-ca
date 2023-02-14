@@ -86,7 +86,11 @@ The learning curve however is steep compared to Docker Swarm, and the installati
 
 ## Summary
 
-Summarise the content and highlight the relevance of the product to a web developer.
+Docker can significantly speed up the development process of applications with its containerization technology and widespread industry support.<br>
+One example of applications well suited for Docker is microservices.
+As Docker containers are separated from the outside, they will allow your app to work in a consistent and predictable way in every environment.
+If your software product is web application running on a server, and not a Desktop app with GUI, then Docker might be right choice.
+
 
 ### Credits
 
