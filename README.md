@@ -19,12 +19,13 @@ In 2013 Docker had its public debut in Santa Clara at [PyCon](https://en.wikiped
 
 #### Major Milestones
 
-- **September 19, 2013:**<br> Red Hat and Docker announce a collaboration around Red Hat's linux distributions and Red Hat's own containerization product OpenShift.
+- **September 19, 2013:**<br> Red Hat and Docker announce a collaboration around Red Hat's linux distributions and Red Hat's own containerization product [OpenShift](https://en.wikipedia.org/wiki/OpenShift).
 -  **October 15, 2014:**<br> Microsoft announces support for integration of the Docker engine into Windows Server, and native support for Docker client in Windows.
 -  **December 2015:**<br> Oracle Cloud adds support for Docker containers.
 -  **May 2016:**<br> Docker project analysis showed the following organizations as main contributors to Docker: The Docker team, Cisco, Google, Huawei, IBM, Microsoft, and Red Hat.
 - **January 2017:**<br> An analysis of LinkedIn profile mentions showed a rapid adoption rate with 160% growth in 2016.
-- **August 2020:**<br> Microsoft announces support for Docker on Windows 10 versions 1903 and 1909 running WSL. By now Docker is supported on all major Windows versions including Home.
+- **August 2020:**<br> Microsoft announces support for Docker on Windows 10 versions 1903 and 1909 running WSL.<br>
+By now Docker is supported on all major Windows versions including Home.
 
 ## Features
 
@@ -86,9 +87,9 @@ The learning curve however is steep compared to Docker Swarm, and the installati
 
 ## Summary
 
-Docker can significantly speed up the development process of applications with its containerization technology and widespread industry support.<br>
-One example of applications well suited for Docker is microservices.<br>
-As Docker containers are separated from the outside, they will allow your app to work in a consistent and predictable way in every environment.<br>
+Docker can significantly speed up the development process of applications with its containerization technology and widespread industry support.
+One example of applications well suited for Docker is microservices.<br><br>
+As Docker containers are separated from the outside, they will allow your app to work in a consistent and predictable way in every environment.<br><br>
 If your software product is a web application running on a server, and not a Desktop app with GUI, then Docker might be the right choice.
 
 
