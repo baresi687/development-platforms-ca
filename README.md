@@ -79,6 +79,10 @@ Docker has its own container orchestration platform called Docker Swarm.
 <br><br>
 **Docker Swarm** is easy to install and lightweight. As it is native to Docker, it works well with the Docker CLI and other existing Docker tools like compose.<br>
 It is however tied to the Docker platform and has limits in its functionality compared to Kubernetes.
+<br><br>
+**Kubernetes** is feature rich and can sustain and manage large and complex workloads with broad open source community support.<br>
+The learning curve however is steep compared to Docker Swarm, and the installation process is complex.
+
 
 ## Summary
 
