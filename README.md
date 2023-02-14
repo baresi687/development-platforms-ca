@@ -64,7 +64,7 @@ Docker is designed in general for hosting applications that run on the command l
 Although there are ways to run a graphical interface inside a Docker container, performance may become cumbersome.
 
 #### Container performance
-Docker containers use less resources than Virtual machines, but performance will not equal bare-metal.
+Docker containers use less resources than [Virtual machines](https://en.wikipedia.org/wiki/Virtual_machine), but performance will not equal [bare-metal](https://en.wikipedia.org/wiki/Bare-metal_server).
 
 #### Data storage
 On container shutdown, all the data stored inside will be lost.<br>
