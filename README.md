@@ -73,7 +73,7 @@ There are tools like Docker Data Volumes to keep data safe, but they are awkward
 ## Comparison
 
 #### Docker vs. Kubernetes
-There is some general confusion regarding Docker vs. Kubernetes<br>
+There is some confusion regarding Docker vs. Kubernetes<br>
 Docker is a container runtime, while Kubernetes is platform for running and managing multiple container runtimes, typically called container orchestration platform.<br>
 Docker has its own container orchestration platform called Docker Swarm.
 <br><br>
