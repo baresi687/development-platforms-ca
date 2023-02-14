@@ -65,6 +65,12 @@ Although there are ways to run a graphical interface inside a Docker container, 
 #### Container performance
 Docker containers use less resources than Virtual machines, but performance will not equal bare-metal.
 
+#### Data storage
+On container shutdown, all the data stored inside will be lost.<br>
+There are tools like Docker Data Volumes to keep data safe, but they are awkward to use and need improvements.
+
+
+
 ## Comparison
 
 Compare the product to other products in the same category, if applicable.
