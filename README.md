@@ -84,6 +84,7 @@ General
 - https://www.knowledgehut.com/blog/devops/docker-features
 - https://www.docker.com/products/docker-hub/
 - https://apiumhub.com/tech-blog-barcelona/top-benefits-using-docker/
+- https://www.channelfutures.com/open-source/docker-downsides-container-cons-to-consider-before-adopting-docker
 
 Major Milestones
 
